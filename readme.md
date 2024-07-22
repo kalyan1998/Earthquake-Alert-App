@@ -1,4 +1,4 @@
-# NASA Space Apps Challenge Project
+# Earthquake Alert App
 
 ## Project Description
 
